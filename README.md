@@ -91,3 +91,5 @@ or
 Happy Contributing!🥳
 
 ## Contributors
+
+- [Kiran P Das](https://github.com/KThankYou)
