@@ -91,3 +91,5 @@ or
 Happy Contributing!🥳
 
 ## Contributors
+
+ - [sr2echa](https://github.com/sr2echa)
