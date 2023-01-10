@@ -41,7 +41,7 @@ Switch to the cloned folder. You can paste this command into the same terminal w
 
 - Open the `README.md` file
 
-- **Add your name to the section. Then save your changes.**
+- **Nishad Phule**
 
 - Stage your changes.
 
