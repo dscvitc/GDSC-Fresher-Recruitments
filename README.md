@@ -2,7 +2,7 @@
 
 Refer to the following steps to contribute to this repository,
 
-You are expected to add your name to the ![Contributors](https://github.com/dscvitc/GDSC-Fresher-Recruitments/blob/main/README.md#contributors)
+You are expected to add your name to the [Contributors](#contributors)
 
 ### The deadline for submissions is Thursday, Jan 12, 2023
 
@@ -91,3 +91,5 @@ or
 Happy Contributing!🥳
 
 ## Contributors
+
+ - [sr2echa](https://github.com/sr2echa)
