@@ -41,7 +41,7 @@ Switch to the cloned folder. You can paste this command into the same terminal w
 
 - Open the `README.md` file
 
-- **Nishad Phule**
+- **Nishad Phule.**
 
 - Stage your changes.
 
