@@ -43,6 +43,8 @@ Switch to the cloned folder. You can paste this command into the same terminal w
 
 - **Add your name to the section. Then save your changes.**
 
+- **Vamsee NY**
+
 - Stage your changes.
 
 ```bash
@@ -91,3 +93,4 @@ or
 Happy Contributing!🥳
 
 ## Contributors
+ - [VamseeNY] https://github.com/VamseeNY
